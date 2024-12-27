@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="duan_1_hieu">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/duan_1_hieu.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

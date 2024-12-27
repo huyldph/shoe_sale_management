@@ -1,0 +1,129 @@
+
+y
+java:S1192F"^Define a constant instead of duplicating this literal "Lá»—i truy váº¥n dá»¯ liá»‡u!" 4 times.(°µ’ÿûÿÿÿÿ
+j
+java:S1192¯"NDefine a constant instead of duplicating this literal "Kiá»ƒu giáº£m" 3 times.(Ú†ÅÈÿÿÿÿÿ
+k
+java:S1192W"UDefine a constant instead of duplicating this literal "Äang hoáº¡t Ä‘á»™ng" 4 times.(ø½¦
+j
+java:S1192¯"NDefine a constant instead of duplicating this literal "Tráº¡ng thÃ¡i" 3 times.(Ú†ÅÈÿÿÿÿÿ
+d
+java:S1192í"HDefine a constant instead of duplicating this literal "Tahoma" 29 times.(Úí²¦şÿÿÿÿ
+>
+java:S1604ñ"(Make this anonymous inner class a lambda(•ôœf
+D
+java:S1604ø"(Make this anonymous inner class a lambda(´ÑÏøÿÿÿÿ
+D
+java:S1604‚"(Make this anonymous inner class a lambda(Á…ó‰ûÿÿÿÿ
+>
+java:S1604‰"(Make this anonymous inner class a lambda(‡¡Ú+
+>
+java:S1604•"(Make this anonymous inner class a lambda(§ÕË
+?
+java:S1604¡"(Make this anonymous inner class a lambda(ûÁÌô
+?
+java:S1604·"(Make this anonymous inner class a lambda(õÊÿ½
+D
+java:S1604Á"(Make this anonymous inner class a lambda( ¡Øüÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Î¦Ç˜
+?
+java:S5411Í"(Use a primitive boolean expression here.(Ç
+?
+java:S5411"(Use a primitive boolean expression here.(Ç
+n	java:S116"SRename this field "MchThang" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈöÂŠşÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(ë«ŠÂûÿÿÿÿ
+l
+java:S1450‘"URemove the "btnAdd" field and declare it as a local variable in the relevant methods.(›ĞŞ
+r
+java:S1450’"[Remove the "btnBackPages" field and declare it as a local variable in the relevant methods.(¢¸Ô…
+o
+java:S1450”"XRemove the "btnFilter" field and declare it as a local variable in the relevant methods.(–ñ©—
+x
+java:S1450•"\Remove the "btnFirstPages" field and declare it as a local variable in the relevant methods.(‡÷Ê­şÿÿÿÿ
+w
+java:S1450–"[Remove the "btnLastPages" field and declare it as a local variable in the relevant methods.(‚Á´úÿÿÿÿ
+r
+java:S1450—"[Remove the "btnNextPages" field and declare it as a local variable in the relevant methods.(«óÁ†
+o
+java:S1450˜"XRemove the "btnUpdate" field and declare it as a local variable in the relevant methods.(‘Ù´ø
+r
+java:S1450Ÿ"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+s
+java:S1450 "WRemove the "jLabel10" field and declare it as a local variable in the relevant methods.(¼õò†şÿÿÿÿ
+s
+java:S1450¡"WRemove the "jLabel11" field and declare it as a local variable in the relevant methods.(‰Ó‚©øÿÿÿÿ
+n
+java:S1450¢"WRemove the "jLabel12" field and declare it as a local variable in the relevant methods.(¶“¡
+s
+java:S1450£"WRemove the "jLabel13" field and declare it as a local variable in the relevant methods.(ÑİĞİıÿÿÿÿ
+s
+java:S1450¤"WRemove the "jLabel14" field and declare it as a local variable in the relevant methods.(ÖóœÍıÿÿÿÿ
+r
+java:S1450¥"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450¦"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+m
+java:S1450§"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+m
+java:S1450¨"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®
+r
+java:S1450©"VRemove the "jLabel6" field and declare it as a local variable in the relevant methods.(¸ôÂøÿÿÿÿ
+m
+java:S1450ª"VRemove the "jLabel7" field and declare it as a local variable in the relevant methods.(×ê˜Ÿ
+m
+java:S1450«"VRemove the "jLabel8" field and declare it as a local variable in the relevant methods.(å»«¢
+r
+java:S1450¬"VRemove the "jLabel9" field and declare it as a local variable in the relevant methods.(Ì’óĞşÿÿÿÿ
+r
+java:S1450­"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+w
+java:S1450®"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ
+w
+java:S1450¯"[Remove the "jScrollPane2" field and declare it as a local variable in the relevant methods.(ŠÌ«·şÿÿÿÿ
+D
+java:S1948")Make "service" transient or serializable.(Ä·®°øÿÿÿÿ
+A
+java:S1948"+Make "nvSerivce" transient or serializable.(¬èÆò
+t
+java:S4144Ê"]Update this method so that its implementation is not identical to "insertUpdate" on line 196.(¤¼›Î
+y
+java:S4144Ğ"]Update this method so that its implementation is not identical to "insertUpdate" on line 196.(Ø¡ı¥ûÿÿÿÿ
+Q
+java:S1161¶":Add the "@Override" annotation above this method signature(®¸ù
+Q
+java:S1161»":Add the "@Override" annotation above this method signature(†ŒË³
+F
+java:S1172Ë"*Remove this unused method parameter "evt".(×ã‰øÿÿÿÿ
+F
+java:S1172Ô"*Remove this unused method parameter "evt".(”ÜÒıÿÿÿÿ
+N
+java:S1135Õ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172Ù"*Remove this unused method parameter "evt".(˜Ò¾Šÿÿÿÿÿ
+N
+java:S1135Ú"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172Ş"*Remove this unused method parameter "evt".(´‹Æ¿úÿÿÿÿ
+N
+java:S1135ß"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172ã"*Remove this unused method parameter "evt".(ı¿»¦
+N
+java:S1135ä"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172ì"*Remove this unused method parameter "evt".(„¡ãîşÿÿÿÿ
+N
+java:S1135í"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172ô"*Remove this unused method parameter "evt".(Â—¦ÿÿÿÿÿ
+N
+java:S1135õ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172ú"*Remove this unused method parameter "evt".(Õ¶úÿÿÿÿ
+N
+java:S1135û"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172ÿ"*Remove this unused method parameter "evt".(ˆˆôñ
+N
+java:S1135€"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ

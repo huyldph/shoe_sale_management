@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-compress-1.24.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javase-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-schemas-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mail-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/core-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xmlbeans-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bridj-0.6.1-windows-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/itext-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mssql-jdbc-12.2.0.jre11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections4-4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webcam-capture-0.3.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

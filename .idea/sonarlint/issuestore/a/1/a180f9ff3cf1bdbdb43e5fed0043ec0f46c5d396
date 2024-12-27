@@ -1,0 +1,64 @@
+
+J
+java:S3740+"/Provide the parametrized type for this generic.(ôãàõüÿÿÿÿ
+J
+java:S3740A"/Provide the parametrized type for this generic.(º®”¹ıÿÿÿÿ
+c
+java:S1192”"GDefine a constant instead of duplicating this literal "Tahoma" 5 times.(çõçøÿÿÿÿ
+D
+java:S1604Á"(Make this anonymous inner class a lambda(œÉğùøÿÿÿÿ
+?
+java:S1604É"(Make this anonymous inner class a lambda(“¹ˆ–
+D
+java:S1604Ñ"(Make this anonymous inner class a lambda(ˆ´‹Ùûÿÿÿÿ
+D
+java:S1604Ù"(Make this anonymous inner class a lambda(Øâ°úÿÿÿÿ
+D
+java:S1604¼"(Make this anonymous inner class a lambda(´§ÚÍşÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÓÍ«Ó
+r
+java:S1450š"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450›"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+m
+java:S1450œ"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®
+r
+java:S1450"VRemove the "jLabel6" field and declare it as a local variable in the relevant methods.(¸ôÂøÿÿÿÿ
+m
+java:S1450"VRemove the "jLabel7" field and declare it as a local variable in the relevant methods.(×ê˜Ÿ
+m
+java:S1450Ÿ"VRemove the "jLabel8" field and declare it as a local variable in the relevant methods.(å»«¢
+r
+java:S1450 "VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+r
+java:S1450¡"VRemove the "jPanel2" field and declare it as a local variable in the relevant methods.(õ òçüÿÿÿÿ
+m
+java:S1450¢"VRemove the "jPanel5" field and declare it as a local variable in the relevant methods.(³¡©ú
+l
+java:S1450£"VRemove the "jPanel6" field and declare it as a local variable in the relevant methods.(í›åv
+m
+java:S1450¤"VRemove the "jPanel7" field and declare it as a local variable in the relevant methods.(…‘ï°
+w
+java:S1450¥"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ
+w
+java:S1450¦"[Remove the "jScrollPane2" field and declare it as a local variable in the relevant methods.(ŠÌ«·şÿÿÿÿ
+h
+java:S1450"RRemove the "row" field and declare it as a local variable in the relevant methods.(©ŒÿÁ
+M
+java:S1948"+Make "hdService" transient or serializable.(¡€…‘øÿÿÿÿ8³±¾øæ1
+J
+java:S1948"-Make "hdctService" transient or serializable.(ş¶Šã8³±¾øæ1
+h
+java:S3776f"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ùÒŸŞ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(®¸ù
+Q
+java:S1161•":Add the "@Override" annotation above this method signature(†ŒË³
+Q
+java:S1161×":Add the "@Override" annotation above this method signature(®¸ù
+@
+java:S1172ˆ"*Remove this unused method parameter "evt".(çìÓ 
+F
+java:S1172"*Remove this unused method parameter "evt".(Ç­úÿÿÿÿ
+N
+java:S1135‘"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ

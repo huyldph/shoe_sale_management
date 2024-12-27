@@ -1,0 +1,106 @@
+
+f
+java:S1192J"KDefine a constant instead of duplicating this literal "Quáº£n lÃ½" 4 times.(â§İâüÿÿÿÿ
+b
+java:S1192M"LDefine a constant instead of duplicating this literal "NhÃ¢n viÃªn" 3 times.(¾Êˆœ
+d
+java:S1192Ë"HDefine a constant instead of duplicating this literal "Tahoma" 29 times.(êÄÌˆüÿÿÿÿ
+C
+java:S1604{"(Make this anonymous inner class a lambda(Â·¬ïÿÿÿÿÿ
+D
+java:S1604ù"(Make this anonymous inner class a lambda(£î»¾şÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(ù–Çñøÿÿÿÿ
+?
+java:S1604‹"(Make this anonymous inner class a lambda(äúİ
+D
+java:S1604“"(Make this anonymous inner class a lambda(…¹¡£øÿÿÿÿ
+D
+java:S1604š"(Make this anonymous inner class a lambda(¯ğàÍøÿÿÿÿ
+>
+java:S1604Ü"(Make this anonymous inner class a lambda(·ñ«M
+?
+java:S1604å"(Make this anonymous inner class a lambda(¢…ü‰
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íº©¥
+>
+java:S5411Ğ"(Use a primitive boolean expression here.(ìôÀ]
+D
+java:S5411Õ"(Use a primitive boolean expression here.(ìÙ‹ûÿÿÿÿ
+?
+java:S5411Ú"(Use a primitive boolean expression here.(ÑàÏ•
+v	java:S116Ğ"[Rename this field "btnFirst_Product" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¯®íøÿÿÿÿ
+u	java:S116Ñ"ZRename this field "btnLast_Product" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şäèúÿÿÿÿ
+u	java:S116Ò"ZRename this field "btnNext_Product" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š˜æŸùÿÿÿÿ
+p	java:S116Ó"ZRename this field "btnPrev_Product" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·É·
+<
+java:S1170"!Make this final field static too.(ë«ŠÂûÿÿÿÿ
+{
+java:S1450Ğ"_Remove the "btnFirst_Product" field and declare it as a local variable in the relevant methods.(“¯®íøÿÿÿÿ
+z
+java:S1450Ñ"^Remove the "btnLast_Product" field and declare it as a local variable in the relevant methods.(şäèúÿÿÿÿ
+z
+java:S1450Ò"^Remove the "btnNext_Product" field and declare it as a local variable in the relevant methods.(š˜æŸùÿÿÿÿ
+u
+java:S1450Ó"^Remove the "btnPrev_Product" field and declare it as a local variable in the relevant methods.(·É·
+q
+java:S1450Ô"URemove the "btnSua" field and declare it as a local variable in the relevant methods.(ù©Ä€ÿÿÿÿÿ
+r
+java:S1450Õ"VRemove the "btnThem" field and declare it as a local variable in the relevant methods.(õÂï‘ùÿÿÿÿ
+r
+java:S1450Ù"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+s
+java:S1450Ú"WRemove the "jLabel10" field and declare it as a local variable in the relevant methods.(¼õò†şÿÿÿÿ
+r
+java:S1450Û"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450Ü"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+m
+java:S1450İ"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+m
+java:S1450Ş"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®
+r
+java:S1450ß"VRemove the "jLabel6" field and declare it as a local variable in the relevant methods.(¸ôÂøÿÿÿÿ
+m
+java:S1450à"VRemove the "jLabel7" field and declare it as a local variable in the relevant methods.(×ê˜Ÿ
+m
+java:S1450á"VRemove the "jLabel8" field and declare it as a local variable in the relevant methods.(å»«¢
+r
+java:S1450â"VRemove the "jLabel9" field and declare it as a local variable in the relevant methods.(Ì’óĞşÿÿÿÿ
+r
+java:S1450ã"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+r
+java:S1450ä"VRemove the "jPanel2" field and declare it as a local variable in the relevant methods.(õ òçüÿÿÿÿ
+w
+java:S1450å"[Remove the "jScrollPane2" field and declare it as a local variable in the relevant methods.(ŠÌ«·şÿÿÿÿ
+D
+java:S1948")Make "service" transient or serializable.(£Ç¡ôúÿÿÿÿ
+Q
+java:S1161ä":Add the "@Override" annotation above this method signature(®¸ù
+Q
+java:S1161é":Add the "@Override" annotation above this method signature(†ŒË³
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÕÑã
+A
+java:S1172"*Remove this unused method parameter "evt".(ŒÕÑã
+d	java:S100’"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÃõ§
+A
+java:S1172’"*Remove this unused method parameter "evt".(óÃõ§
+d	java:S100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½£·µ
+A
+java:S1172–"*Remove this unused method parameter "evt".(½£·µ
+d	java:S100š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í“ùò
+A
+java:S1172š"*Remove this unused method parameter "evt".(Í“ùò
+A
+java:S1172"*Remove this unused method parameter "evt".(–© Ê
+N
+java:S1135Ÿ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172¤"*Remove this unused method parameter "evt".(–´¥Ÿúÿÿÿÿ
+N
+java:S1135¥"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+@
+java:S1172­"*Remove this unused method parameter "evt".(é•úZ
+F
+java:S1172Â"*Remove this unused method parameter "evt".(³Äºôşÿÿÿÿ
+N
+java:S1135Ã"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ

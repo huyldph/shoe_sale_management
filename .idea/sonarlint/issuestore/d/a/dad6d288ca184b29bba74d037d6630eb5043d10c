@@ -1,0 +1,67 @@
+
+]
+java:S1192@"GDefine a constant instead of duplicating this literal "Tahoma" 7 times.(‘Õß”
+>
+java:S1604O"(Make this anonymous inner class a lambda(«ğãã
+>
+java:S1604X"(Make this anonymous inner class a lambda(ßÀû¦
+D
+java:S1604Ñ"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+?
+java:S5411ı"(Use a primitive boolean expression here.(Ç³ô¢
+c
+java:S1223ô"LRename this method to prevent any misunderstanding or make it a constructor.(ÀğŠÕ
+T
+java:S2589…"8Remove this expression which always evaluates to "false"(´©„ªıÿÿÿÿ
+o
+java:S1450à"XRemove the "btnCancel" field and declare it as a local variable in the relevant methods.(ñøÉ»
+n
+java:S1450á"WRemove the "btnLogin" field and declare it as a local variable in the relevant methods.(Œ¨ëå
+j
+java:S1450í"TRemove the "check" field and declare it as a local variable in the relevant methods.(¼âÊ
+r
+java:S1450â"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450ã"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450ä"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+r
+java:S1450å"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+r
+java:S1450æ"VRemove the "jPanel2" field and declare it as a local variable in the relevant methods.(õ òçüÿÿÿÿ
+m
+java:S1450ç"VRemove the "jPanel3" field and declare it as a local variable in the relevant methods.(Œ³èÈ
+t
+java:S1450è"XRemove the "lblQuenMK" field and declare it as a local variable in the relevant methods.(ÍÃüÉúÿÿÿÿ
+E
+java:S1948î")Make "service" transient or serializable.(£Ç¡ôúÿÿÿÿ
+P
+java:S1161b":Add the "@Override" annotation above this method signature(†ŒË³
+A
+java:S1172 "*Remove this unused method parameter "evt".(¾¥œš
+N
+java:S1135¡"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172¥"*Remove this unused method parameter "evt".(Ï±”êûÿÿÿÿ
+N
+java:S1135¦"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172ª"*Remove this unused method parameter "evt".(‡ùĞ€
+N
+java:S1135«"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1197µ"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147Ä"ECombine this catch with the one at line 194, which has the same body.(¨¦Š½
+\
+java:S2147Æ"ECombine this catch with the one at line 194, which has the same body.(ã€ 
+[
+java:S2147È"ECombine this catch with the one at line 194, which has the same body.(ñÎ¯%
+d	java:S100ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀğŠÕ
+R
+java:S2696ˆ"6Make the enclosing method "static" or remove this set.(ˆõğ¥úÿÿÿÿ
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø©
+J
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã
+O
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ

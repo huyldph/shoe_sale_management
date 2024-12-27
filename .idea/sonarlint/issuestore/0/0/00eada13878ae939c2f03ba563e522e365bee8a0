@@ -1,0 +1,60 @@
+
+>
+java:S1604Ï"(Make this anonymous inner class a lambda(Ô´§
+?
+java:S1604Ø"(Make this anonymous inner class a lambda(å”Ê¼
+?
+java:S1604å"(Make this anonymous inner class a lambda(ã¢•‹
+D
+java:S1604î"(Make this anonymous inner class a lambda(ÇÓïèüÿÿÿÿ
+D
+java:S1604†"(Make this anonymous inner class a lambda(˜‰Å¸ıÿÿÿÿ
+D
+java:S1604£"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+C
+java:S5411V"(Use a primitive boolean expression here.(† Ãúÿÿÿÿ
+q
+java:S1450³"ZRemove the "btnSendMail" field and declare it as a local variable in the relevant methods.(¯·×ã
+r
+java:S1450µ"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450¶"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450·"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+r
+java:S1450¸"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+D
+java:S1948")Make "service" transient or serializable.(£Ç¡ôúÿÿÿÿ
+A
+java:S1948"&Make "list" transient or serializable.(ÈøÄ¯şÿÿÿÿ
+3
+java:S2119\"Save and re-use this "Random".(¼İÅf
+M	java:S106w"9Replace this use of System.out or System.err by a logger.(ûÜµ)
+@
+java:S1172ï"*Remove this unused method parameter "evt".(ªƒÖ"
+N
+java:S1135ğ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172ó"*Remove this unused method parameter "evt".(ıéç¤
+N
+java:S1135ô"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172ø"*Remove this unused method parameter "evt".(êğ¥µ
+N
+java:S1135ù"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172ü"*Remove this unused method parameter "evt".(æâåäşÿÿÿÿ
+N
+java:S1135ı"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172"*Remove this unused method parameter "evt".(—ƒ÷­
+N
+java:S1135‚"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1197‰"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147˜"ECombine this catch with the one at line 406, which has the same body.(¨¦Š½
+\
+java:S2147š"ECombine this catch with the one at line 406, which has the same body.(ã€ 
+[
+java:S2147œ"ECombine this catch with the one at line 406, which has the same body.(ñÎ¯%

@@ -1,0 +1,42 @@
+
+b
+java:S1192j"GDefine a constant instead of duplicating this literal "Tahoma" 7 times.(¢®¿İùÿÿÿÿ
+>
+java:S1604"(Make this anonymous inner class a lambda(õĞ½
+D
+java:S1604ò"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+?
+java:S1604‹"(Make this anonymous inner class a lambda(Ğü÷
+>
+java:S5411"(Use a primitive boolean expression here.(Ç
+>
+java:S5411+"(Use a primitive boolean expression here.(Ç
+r
+java:S1450ú"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450û"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450ü"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+m
+java:S1450ı"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+r
+java:S1450ş"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+w
+java:S1450…"[Remove the "panelBorder1" field and declare it as a local variable in the relevant methods.(££ö§ÿÿÿÿÿ
+7
+java:S6205'"Remove this redundant block.(ï·áãüÿÿÿÿ
+>	java:S1085")Either remove or fill this block of code.(üØô
+P
+java:S1161e":Add the "@Override" annotation above this method signature(†ŒË³
+F
+java:S1172Ğ"*Remove this unused method parameter "evt".(³üƒúùÿÿÿÿ
+N
+java:S1135Ñ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1197Ø"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147ç"ECombine this catch with the one at line 229, which has the same body.(¨¦Š½
+\
+java:S2147é"ECombine this catch with the one at line 229, which has the same body.(ã€ 
+[
+java:S2147ë"ECombine this catch with the one at line 229, which has the same body.(ñÎ¯%
